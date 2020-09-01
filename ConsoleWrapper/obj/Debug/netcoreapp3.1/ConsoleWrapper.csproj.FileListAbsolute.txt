@@ -1,0 +1,14 @@
+C:\Users\Proger\source\repos\Core\ConsoleWrapper\bin\Debug\netcoreapp3.1\ConsoleWrapper.exe
+C:\Users\Proger\source\repos\Core\ConsoleWrapper\bin\Debug\netcoreapp3.1\ConsoleWrapper.deps.json
+C:\Users\Proger\source\repos\Core\ConsoleWrapper\bin\Debug\netcoreapp3.1\ConsoleWrapper.runtimeconfig.json
+C:\Users\Proger\source\repos\Core\ConsoleWrapper\bin\Debug\netcoreapp3.1\ConsoleWrapper.runtimeconfig.dev.json
+C:\Users\Proger\source\repos\Core\ConsoleWrapper\bin\Debug\netcoreapp3.1\ConsoleWrapper.dll
+C:\Users\Proger\source\repos\Core\ConsoleWrapper\bin\Debug\netcoreapp3.1\ConsoleWrapper.pdb
+C:\Users\Proger\source\repos\Core\ConsoleWrapper\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Proger\source\repos\Core\ConsoleWrapper\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Proger\source\repos\Core\ConsoleWrapper\obj\Debug\netcoreapp3.1\ConsoleWrapper.csprojAssemblyReference.cache
+C:\Users\Proger\source\repos\Core\ConsoleWrapper\obj\Debug\netcoreapp3.1\ConsoleWrapper.AssemblyInfoInputs.cache
+C:\Users\Proger\source\repos\Core\ConsoleWrapper\obj\Debug\netcoreapp3.1\ConsoleWrapper.AssemblyInfo.cs
+C:\Users\Proger\source\repos\Core\ConsoleWrapper\obj\Debug\netcoreapp3.1\ConsoleWrapper.csproj.CopyComplete
+C:\Users\Proger\source\repos\Core\ConsoleWrapper\obj\Debug\netcoreapp3.1\ConsoleWrapper.dll
+C:\Users\Proger\source\repos\Core\ConsoleWrapper\obj\Debug\netcoreapp3.1\ConsoleWrapper.pdb

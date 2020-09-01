@@ -1,0 +1,8 @@
+C:\Users\Proger\source\repos\Core\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Proger\source\repos\Core\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Proger\source\repos\Core\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Proger\source\repos\Core\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\Proger\source\repos\Core\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Proger\source\repos\Core\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Proger\source\repos\Core\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Proger\source\repos\Core\Core\obj\Debug\netcoreapp3.1\Core.pdb
